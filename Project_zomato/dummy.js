@@ -49,7 +49,7 @@ for(let i=0;i<100;i++){
         "Gurudwara Bangla Sahib",
         "National Museum",
         "ISKCON Temple",
-        "Safdarjung Tomb"
+        "Safdarjung Tomb" 
     ][Math.floor(Math.random()*20)];
 
     obj["distance_from_Customer_house"] = (Math.random()*10).toFixed(1);
